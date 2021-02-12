@@ -1,0 +1,22 @@
+{
+  "name": "picse",
+  "version": "0.0.0",
+  "description": "\"Simple server application that allows users to upload pictures.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jammartin/snackend-examples.git"
+  },
+  "author": "Johannes Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jammartin/snackend-examples/issues"
+  },
+  "homepage": "https://github.com/jammartin/snackend-examples#readme",
+  "dependencies": {
+    "mongoose": "^5.11.15"
+  }
+}
